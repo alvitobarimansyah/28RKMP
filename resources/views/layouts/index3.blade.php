@@ -1,0 +1,9 @@
+@include('layouts.kodeatas2')
+@include('layouts.topnav')
+@include('layouts.header2')
+<br>
+@yield('content')
+</div>
+<br>
+@include('layouts.footer2')
+@include('layouts.kodebawah2')
