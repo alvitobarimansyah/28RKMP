@@ -1,2 +1,2 @@
 # 28RKMP
-link web -> 28rkmp.techmuda4.com
+link web -> http://28rkmp.techmuda4.com
